@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clean Java</title>
+    <description>Norrey&#39;s Software Engineering Lessons</description>
+    <link>https://norrey.github.io/</link>
+    <atom:link href="https://norrey.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Jun 2018 01:11:51 +0300</pubDate>
+    <lastBuildDate>Thu, 21 Jun 2018 01:11:51 +0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Introduction to Java</title>
+        <description>&lt;h2 id=&quot;java&quot;&gt;Java&lt;/h2&gt; &lt;p&gt;My aim is to write about Clean Java. However much I try, I am not going to jump directly to Clean Java without introducing Java itself. However, I will not go into the history and such stuff. So, without much blah blah, lets get started.&lt;/p&gt; &lt;h2 id=&quot;what-is-java&quot;&gt;What is Java?&lt;/h2&gt; &lt;p&gt;Java is a general purpose programming language - you can build mobile applications, embedded programs, games, desktop applications, web applications and many cool things with Java. It is designed to be developed once but run anywhere. This is made possible by the powerful Java Virtual Machine(JVM) which is can...</description>
+        <pubDate>Wed, 20 Jun 2018 11:30:00 +0300</pubDate>
+        <link>https://norrey.github.io/blog/2018/06/20/introduction-to-java</link>
+        <guid isPermaLink="true">https://norrey.github.io/blog/2018/06/20/introduction-to-java</guid>
+        
+        <category>Java</category>
+        
+        <category>JVM</category>
+        
+        <category>Java Virtual Machine</category>
+        
+        <category>Bytecode</category>
+        
+        <category>Clean Java</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
